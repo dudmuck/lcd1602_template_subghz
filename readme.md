@@ -1,7 +1,7 @@
 # nordic sidewalk template_subghz with added 16x2 I2C-LCD
 Uses [Nordic sidewalk SDK](https://github.com/nrfconnect/sdk-sidewalk) with [16x2 LCD](https://wiki.52pi.com/index.php?title=Z-0234).  For purpose to see the difference of network coverage FSK vs LoRa.
 
-This is a zephy freestanding application.  Be sure to build this from the shell started by nordic's toolchain manager, so``ZEPHYR_BASE``environment is defined. 
+This is a zephyr freestanding application.  Be sure to build this from the shell started by nordic's toolchain manager, so``ZEPHYR_BASE``environment is defined. 
 
 be sure you have first built and run the template_subghz sample as supplied by nordic.
 ## modifications
